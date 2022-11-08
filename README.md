@@ -1,16 +1,22 @@
 - 👋 Hi, I’m Thura Lin Htut
-- 👀 I’m interested in Programming.
- I developed a lot of real world app with java, javafx and React.
+- 👀 I’m interested in Programming & Computer Science.
+- I developed a lot of real world apps with java, javafx and React.
 
 - 🌱 I’m currently learning for web development.
 
+- Works at Freelance.
+<code>
+Android Developer, Web Developer, UI/UX Desinger, FullStack (Frontend & Backend)
+</code>
+
+
 <h1>Skills</h1>
 <h3>Language<h3>
- <p>HTML, CSS, Javascript, Java, Python, PHP(Basic), SQL</p>
+   <li>HTML, CSS, Javascript, Java, Python, PHP(Basic), SQL</li>
 <h3>FrameWork<h3>
- <p>React, React Native, JavaFx, Python Django</p>
+ <li>React, React Native, JavaFx, Python Django</li>
 <h3>Other<h3>
- <p>JSON, XML, BootStrap, Axios , NPM(Node Package Manager), Git, Gitpod, StackOverflow, VSCode</p>
+ <li>JSON, XML, BootStrap, Axios , NPM(Node Package Manager), Figma, Git, Gitpod, StackOverflow, VSCode</li>
 
 
 <!---
